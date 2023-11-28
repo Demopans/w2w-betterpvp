@@ -20,7 +20,7 @@ public class Waystones2Waypoints {
     public static final String MODID = "w2w";
     public static final String MODNAME = "Waystones2Waypoints";
     public static final String VERSION = "GRADLE:VERSION";
-    public static final String DEPENDS = "after:waystones;after:xaerominimap;after:signpost;";
+    public static final String DEPENDS = "after:waystones;after:betterpvp;after:signpost;";
 
     @SuppressWarnings("unused")
     public final static Logger LOG = LogManager.getLogger(MODID);
